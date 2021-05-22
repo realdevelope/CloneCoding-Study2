@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 실전테스트  - 사이트 선정 후 클론
 - 디비컷 - 3페이지의 스파오(SPAO) Clone (80%완성)<br>
 - 12월 한달 프론트앤드 기초부터 바로잡기 프로젝트
@@ -21,3 +22,20 @@
 ![screen7](https://user-images.githubusercontent.com/48710889/119214685-91c78480-bb03-11eb-9ae0-cd4b7de3c67e.PNG)
 ![screen8](https://user-images.githubusercontent.com/48710889/119214686-92601b00-bb03-11eb-9607-a2de473f7c0c.PNG)
 
+=======
+# 실전테스트 
+#디비컷 - 3페이지의 스파오(SPAO) Clone (70%완성)<br>
+#12월 한달 프론트앤드 기초부터 바로잡기 프로젝트3-2/31
+
+## 학습내용
+
+1. HTML 실무 구조✔
+2. CSS 실무 요소✔
+3. 웹표준, 웹접근성, 웹호환성✔<br>
+4. JQuery bxSlider - 이미지 슬라이드✔<br>
+
+->리베하얀 실무 따라하기 인강 들은후 응용part(스스로)
+
+## 직접 비교 해보세요
+<http://spao.com/>
+>>>>>>> f6de636ec18dd4c7461df6243bdb08717aa19cb9
